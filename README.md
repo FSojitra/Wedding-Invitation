@@ -1,5 +1,3 @@
-
-<p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: JAN 24, 2022 <br> <a href="https://sonali.netlify.app/">sonali.netlify.app</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
@@ -14,15 +12,11 @@
 With the divine grace of the almighty,
 inviting you and your family to elder sister's wedding to be held on **24th January at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
+- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/invitation.pdf) the Invitation card
 
-- Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
+- Find [venue](https://www.google.com/maps/place/Dev+Farm/@21.7400103,70.4635673,17z/data=!4m12!1m6!3m5!1s0x39581f772a258e1d:0xdac8b93fe13c4aa6!2sDev+Farm!8m2!3d21.7400141!4d70.4658328!3m4!1s0x39581f772a258e1d:0xdac8b93fe13c4aa6!8m2!3d21.7400141!4d70.4658328) on Google map
 
 - Visit the [website](https://sonali.netlify.app/) for more details
-
-- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
-
-- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
 
 ```js
 
