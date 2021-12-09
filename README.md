@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://foramandjaydeep.netlify.app//">Wedding Invitation</a> <br> <br> SAVE THE DATE: JAN 24, 2022 <br> <a href="https://foramandjaydeep.netlify.app//">sonali.netlify.app</a></h1>
+<h1 align="center"><a href="https://foramandjaydeep.netlify.app//">Wedding Invitation</a> <br> <br> SAVE THE DATE: JAN 24, 2022 <br> <a href="https://foramandjaydeep.netlify.app//">foramandjaydeep.netlify.app</a></h1>
 
 ## Wedding Invitation
 
