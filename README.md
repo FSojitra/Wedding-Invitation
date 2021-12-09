@@ -3,7 +3,7 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
 ## Wedding Invitation :ring:
-
+<a href="https://sonali.netlify.app/"><img src="https://raw.githubusercontent.com/FSojitra/Wedding-Invitation/master/invitation/invitation.jpg" /></a>
 <details>
   <summary><strong>View Invitation</strong></summary>
   <a href="https://sonali.netlify.app/"><img src="https://raw.githubusercontent.com/FSojitra/Wedding-Invitation/master/invitation/invitation.jpg" /></a>
@@ -61,12 +61,3 @@ var countDownDate = new Date("Jan 24, 2022 00:00:00").getTime();
 ```
 
 > <sup>Despite so many new Bollywood and English song options, I prefered to use two-decade-old song, **[Din Shagna Da](https://youtu.be/X0MDALpV29s)**! Ever attended a North Indian Wedding? As soon as the DJ plays [Din Shagna Da](https://youtu.be/Mj4eK5YViCs) song, it means that the much-awaited moment is here and the bride is all set to put her first foot forward to the wedding venue under a breathtaking phoolon ki chaadar. Let's keep the sky-high status of this song untouched! When the website is backed up with a soul-stirring track, the feeling becomes absolutely surreal. **Choose a heart-touching track!** :musical_note: :heart: </sup>
-
-
-### Do not forget to leave a star! :hugs:
-
-Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo)) :yellow_heart:
-
-<br><sup><i>With warm regards,<br>
-**Vinit Shahdeo**<i></sup><br>
-[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
