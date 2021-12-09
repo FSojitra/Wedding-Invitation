@@ -4,13 +4,6 @@
 
 ## Wedding Invitation :ring:
 <a href="https://sonali.netlify.app/"><img src="https://raw.githubusercontent.com/FSojitra/Wedding-Invitation/master/invitation/invitation.jpg" /></a>
-<details>
-  <summary><strong>View Invitation</strong></summary>
-  <a href="https://sonali.netlify.app/"><img src="https://raw.githubusercontent.com/FSojitra/Wedding-Invitation/master/invitation/invitation.jpg" /></a>
-</details>
-
-With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **24th January at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Dev Farm, Dhoraji from 3:00 PM** onwards.
 
 - [Download](https://github.com/FSojitra/Wedding-Invitation/raw/master/invitation/invitation.pdf) the Invitation card
 
@@ -18,27 +11,6 @@ inviting you and your family to elder sister's wedding to be held on **24th Janu
 
 - Visit the [website](https://sonali.netlify.app/) for more details
 
-```js
-
-const newCouple = 'Foram & Jaydeep';
-
-// Nov 29, 2020
-const weddingDate = new Date(2022, 01, 24);
-
-// Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Dev Farm, Dhoraji');
-
-(function() {
-    newCouple.willTieKnot(weddingDate);
-
-    // your presence is requested
-    (new Wedding()).acceptInvitation(
-        window.open('https://sonali.netlify.app/')
-    );
-})();
-
-
-```
 
 ## Are you or your loved ones a *bride-to-be* or *groom-to-be*? 
 > Feel free to use this template to build your wedding website!
