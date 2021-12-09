@@ -10,9 +10,9 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **24th January at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
+inviting you and your family to elder sister's wedding to be held on **24th January at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Dev Farm, Dhoraji from 3:00 PM** onwards.
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/invitation.pdf) the Invitation card
+- [Download](https://github.com/FSojitra/Wedding-Invitation/raw/master/invitation/invitation.pdf) the Invitation card
 
 - Find [venue](https://www.google.com/maps/place/Dev+Farm/@21.7400103,70.4635673,17z/data=!4m12!1m6!3m5!1s0x39581f772a258e1d:0xdac8b93fe13c4aa6!2sDev+Farm!8m2!3d21.7400141!4d70.4658328!3m4!1s0x39581f772a258e1d:0xdac8b93fe13c4aa6!8m2!3d21.7400141!4d70.4658328) on Google map
 
